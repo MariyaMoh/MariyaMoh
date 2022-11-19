@@ -1,9 +1,9 @@
 ### Hi there this is Mariya  👋
 
 
-- 🔭 I’m Front-end developer 
-- 💬 Ask me about 
-- 📫 How to reach me: alshaibi199732@gmail.com
+- 🔭 I’m Front-end developer from Oman 🇴🇲
+
+
 
 
 <!--
