@@ -1,5 +1,11 @@
 ### Hi there this is Mariya  👋
 
+
+- 🔭 I’m Front-end developer 
+- 💬 Ask me about 
+- 📫 How to reach me: alshaibi199732@gmail.com
+
+
 <!--
 **MariyaMoh/MariyaMoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
