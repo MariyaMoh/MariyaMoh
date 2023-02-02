@@ -1,7 +1,7 @@
 ### Hi there this is Mariya  👋
 
 
-- 🔭 I’m Front-end developer from Oman 🇴🇲
+<!-- - 🔭 I’m Front-end developer from Oman 🇴🇲 -->
 
 
 
